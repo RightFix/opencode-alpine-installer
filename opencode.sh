@@ -32,7 +32,6 @@ main() {
     echo "----------------------------------------------------"
     echo "🎉 Setup Complete!"
     echo "👉 Run 'opencode' to start."
-    echo "💡 Note: Use a remote API key to save your 4GB RAM."
     echo "----------------------------------------------------"
 }
 
