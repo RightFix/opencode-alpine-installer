@@ -17,7 +17,7 @@ A bash script to easily install [OpenCode AI](https://opencode.ai) on Alpine Lin
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/opencode-alpine-installer/main/opencode.sh -o opencode.sh
+curl -fsSL https://raw.githubusercontent.com/RightFix/opencode-alpine-installer/main/opencode.sh -o opencode.sh
 chmod +x opencode.sh
 ./opencode.sh
 ```
